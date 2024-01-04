@@ -1,0 +1,55 @@
+[
+    {
+        "DOI": "10.1152/japplphysiol.00093.2018",
+        "ISSN": "1522-1601",
+        "PMID": "30161011",
+        "author": [
+            {
+                "family": "Jacinto",
+                "given": "Tiago"
+            },
+            {
+                "family": "Amaral",
+                "given": "Rita"
+            },
+            {
+                "family": "Malinovschi",
+                "given": "Andrei"
+            },
+            {
+                "family": "Janson",
+                "given": "Christer"
+            },
+            {
+                "family": "Fonseca",
+                "given": "João"
+            },
+            {
+                "family": "Alving",
+                "given": "Kjell"
+            }
+        ],
+        "container-title": "Journal of Applied Physiology (Bethesda, Md.: 1985)",
+        "container-title-short": "J Appl Physiol (1985)",
+        "id": "jacinto2018",
+        "issue": "5",
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    11,
+                    1
+                ]
+            ]
+        },
+        "key": "QSCEBTWA",
+        "language": "eng",
+        "libraryid": "1",
+        "page": "1620-1626",
+        "providerkey": "2509FBBE-5BB0-44C4-B119-6083A81ED673",
+        "source": "PubMed",
+        "title": "Exhaled NO reference limits in a large population-based sample using the Lambda-Mu-Sigma method",
+        "type": "article-journal",
+        "volume": "125"
+    }
+]

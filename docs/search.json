@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "posts/2023-10-25-test-post/index.html",
+    "href": "posts/2023-10-25-test-post/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "We know from *the first fundamental theorem of calculus* that for $x$ in $[a, b]$:\n$$\\frac{d}{dx}\\left( \\int_{a}^{x} f(u)\\,du\\right)=f(x).$$\nI am going to insert a footnote here1.\nThis is a citation (Jacinto et al. 2018)."
+  },
+  {
+    "objectID": "posts/2023-10-25-test-post/index.html#footnotes",
+    "href": "posts/2023-10-25-test-post/index.html#footnotes",
+    "title": "blog post title",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is the associated footnote, which will appear at the bottom of my document in a “Footnotes” section.↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tiago Jacinto",
+    "section": "",
+    "text": "Finley is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Tiago Jacinto",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Tiago Jacinto",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "uses/index.html",
+    "href": "uses/index.html",
+    "title": "Uses",
+    "section": "",
+    "text": "This is the stuff I use. 2023-10-31"
+  },
+  {
+    "objectID": "uses/index.html#hardware",
+    "href": "uses/index.html#hardware",
+    "title": "Uses",
+    "section": "Hardware",
+    "text": "Hardware\nMacbook Pro M1 (2020)\niPhone 12 (2021)\nHuawei P10"
+  },
+  {
+    "objectID": "uses/index.html#software",
+    "href": "uses/index.html#software",
+    "title": "Uses",
+    "section": "Software",
+    "text": "Software\nMozilla Firefox\nReminders.app\nCalendar.app\nDictionary\nNumbers\nSpark\nDay One\nAnybox\nNetnewswire\nObsidian\nZotero\nRStudio\nZettlr\nByword\nCot Editor\nVS Code\nMarkedit\nKindle\niTerm2\nSkim\nGithub Desktop\nAcorn\nPixelmator"
+  },
+  {
+    "objectID": "uses/index.html#services",
+    "href": "uses/index.html#services",
+    "title": "Uses",
+    "section": "Services",
+    "text": "Services"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\nThis article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme."
+  },
+  {
+    "objectID": "about.html#headings",
+    "href": "about.html#headings",
+    "title": "About",
+    "section": "Headings",
+    "text": "Headings\nThe following HTML &lt;h1&gt;—&lt;h6&gt; elements represent six levels of section headings. &lt;h1&gt; is the highest section level while &lt;h6&gt; is the lowest."
+  },
+  {
+    "objectID": "about.html#h2",
+    "href": "about.html#h2",
+    "title": "About",
+    "section": "H2",
+    "text": "H2\n\nH3\n\nH4\n\nH5\n\nH6"
+  },
+  {
+    "objectID": "about.html#paragraph",
+    "href": "about.html#paragraph",
+    "title": "About",
+    "section": "Paragraph",
+    "text": "Paragraph\nXerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.\nItatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat."
+  },
+  {
+    "objectID": "about.html#blockquotes",
+    "href": "about.html#blockquotes",
+    "title": "About",
+    "section": "Blockquotes",
+    "text": "Blockquotes\nThe blockquote element represents content that is quoted from another source, optionally with a citation which must be within a footer or cite element, and optionally with in-line changes such as annotations and abbreviations.\n\nBlockquote without attribution\n\nTiam, ad mint andaepu dandae nostion secatur sequo quae. Note that you can use Markdown syntax within a blockquote.\n\n\n\nBlockquote with attribution\n\nDon’t communicate by sharing memory, share memory by communicating. — Rob Pike1"
+  },
+  {
+    "objectID": "about.html#tables",
+    "href": "about.html#tables",
+    "title": "About",
+    "section": "Tables",
+    "text": "Tables\nTables aren’t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.\n\n\n\nName\nAge\n\n\n\n\nBob\n27\n\n\nAlice\n23\n\n\n\n\nInline Markdown within tables\n\n\n\nItalics\nBold\nCode\n\n\n\n\nitalics\nbold\ncode"
+  },
+  {
+    "objectID": "about.html#code-blocks",
+    "href": "about.html#code-blocks",
+    "title": "About",
+    "section": "Code Blocks",
+    "text": "Code Blocks\n\nCode block with backticks\n&lt;!doctype html&gt;\n&lt;html lang=\"en\"&gt;\n&lt;head&gt;\n  &lt;meta charset=\"utf-8\"&gt;\n  &lt;title&gt;Example HTML5 Document&lt;/title&gt;\n&lt;/head&gt;\n&lt;body&gt;\n  &lt;p&gt;Test&lt;/p&gt;\n&lt;/body&gt;\n&lt;/html&gt;\n\n\nCode block indented with four spaces\n&lt;!doctype html&gt;\n&lt;html lang=\"en\"&gt;\n&lt;head&gt;\n  &lt;meta charset=\"utf-8\"&gt;\n  &lt;title&gt;Example HTML5 Document&lt;/title&gt;\n&lt;/head&gt;\n&lt;body&gt;\n  &lt;p&gt;Test&lt;/p&gt;\n&lt;/body&gt;\n&lt;/html&gt;"
+  },
+  {
+    "objectID": "about.html#list-types",
+    "href": "about.html#list-types",
+    "title": "About",
+    "section": "List Types",
+    "text": "List Types\n\nOrdered List\n\nFirst item\nSecond item\nThird item\n\n\n\nUnordered List\n\nList item\nAnother item\nAnd another item\n\n\n\nNested list\n\nFruit\n\nApple\nOrange\nBanana\n\nDairy\n\nMilk\nCheese"
+  },
+  {
+    "objectID": "about.html#other-elements-abbr-sub-sup-kbd-mark",
+    "href": "about.html#other-elements-abbr-sub-sup-kbd-mark",
+    "title": "About",
+    "section": "Other Elements — abbr, sub, sup, kbd, mark",
+    "text": "Other Elements — abbr, sub, sup, kbd, mark\nGIF is a bitmap image format.\nH2O\nXn + Yn = Zn\nPress CTRL+ALT+Delete to end the session.\nMost salamanders are nocturnal, and hunt for insects, worms, and other small creatures."
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "About",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe above quote is excerpted from Rob Pike’s talk during Gopherfest, November 18, 2015.↩︎"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "blog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "uses.html",
+    "href": "uses.html",
+    "title": "Uses",
+    "section": "",
+    "text": "{css, echo=FALSE} #title-block-header .description {     display: none; }\nThis is the stuff I use."
+  },
+  {
+    "objectID": "uses.html#hardware",
+    "href": "uses.html#hardware",
+    "title": "Uses",
+    "section": "Hardware",
+    "text": "Hardware\nMacbook Pro M1 (2020)\niPhone 12 (2021)\nHuawei P10"
+  },
+  {
+    "objectID": "uses.html#software",
+    "href": "uses.html#software",
+    "title": "Uses",
+    "section": "Software",
+    "text": "Software\nMozilla Firefox\nReminders.app\nCalendar.app\nDictionary\nNumbers\nSpark\nDay One\nAnybox\nNetnewswire\nObsidian\nZotero\nRStudio\nZettlr\nByword\nCot Editor\nVS Code\nMarkedit\nKindle\niTerm2\nSkim\nGithub Desktop\nAcorn\nPixelmator"
+  },
+  {
+    "objectID": "uses.html#services",
+    "href": "uses.html#services",
+    "title": "Uses",
+    "section": "Services",
+    "text": "Services"
+  }
+]

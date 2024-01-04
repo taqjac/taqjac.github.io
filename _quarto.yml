@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Tiago Jacinto"
+  navbar:
+    background: dark
+    
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - posts.qmd
+      - uses/index.qmd
+
+format:
+  html:
+    theme:
+      light: default
+      dark: default
+    css: styles.css
+    toc: true
+    page-layout: full
+
+editor: visual
+

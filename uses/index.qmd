@@ -1,0 +1,73 @@
+---
+title: "Uses"
+page-layout: article
+date: last-modified
+date-format: iso
+description: This is the description
+title-block-banner: "#f8f9fa"
+title-block-banner-color: "#3e3e3a"
+published-title: Last updated
+toc: true
+toc-location: left
+toc-title: "Contents"
+---
+
+This is the stuff I use. {{< meta date >}}
+
+## Hardware
+
+Macbook Pro M1 (2020)
+
+iPhone 12 (2021)
+
+Huawei P10
+
+## Software
+
+Mozilla Firefox
+
+Reminders.app
+
+Calendar.app
+
+Dictionary
+
+Numbers
+
+Spark
+
+Day One
+
+Anybox
+
+Netnewswire
+
+Obsidian
+
+Zotero
+
+RStudio
+
+Zettlr
+
+Byword
+
+Cot Editor
+
+VS Code
+
+Markedit
+
+Kindle
+
+iTerm2
+
+Skim
+
+Github Desktop
+
+Acorn
+
+Pixelmator
+
+## Services
