@@ -8,7 +8,7 @@ title-block-banner: "#f8f9fa"
 title-block-banner-color: "#3e3e3a"
 published-title: Last updated
 toc: true
-toc-location: left
+toc-location: right
 toc-title: "Contents"
 ---
 

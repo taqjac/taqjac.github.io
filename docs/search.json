@@ -39,7 +39,7 @@
     "href": "uses/index.html",
     "title": "Uses",
     "section": "",
-    "text": "This is the stuff I use. 2023-10-31"
+    "text": "This is the stuff I use. 2024-01-15"
   },
   {
     "objectID": "uses/index.html#hardware",
@@ -135,7 +135,7 @@
   {
     "objectID": "posts.html",
     "href": "posts.html",
-    "title": "My Blog",
+    "title": "Notes",
     "section": "",
     "text": "blog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
@@ -166,5 +166,26 @@
     "title": "Uses",
     "section": "Services",
     "text": "Services"
+  },
+  {
+    "objectID": "notes/2023-10-25-test-post/index.html",
+    "href": "notes/2023-10-25-test-post/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "We know from *the first fundamental theorem of calculus* that for $x$ in $[a, b]$:\n$$\\frac{d}{dx}\\left( \\int_{a}^{x} f(u)\\,du\\right)=f(x).$$\nI am going to insert a footnote here1.\nThis is a citation (Jacinto et al. 2018)."
+  },
+  {
+    "objectID": "notes/2023-10-25-test-post/index.html#footnotes",
+    "href": "notes/2023-10-25-test-post/index.html#footnotes",
+    "title": "blog post title",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is the associated footnote, which will appear at the bottom of my document in a “Footnotes” section.↩︎"
+  },
+  {
+    "objectID": "now.html",
+    "href": "now.html",
+    "title": "Now",
+    "section": "",
+    "text": "Teste"
   }
 ]
