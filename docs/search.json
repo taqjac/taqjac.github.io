@@ -1,38 +1,45 @@
 [
   {
-    "objectID": "posts/2023-10-25-test-post/index.html",
-    "href": "posts/2023-10-25-test-post/index.html",
-    "title": "blog post title",
+    "objectID": "uses.html",
+    "href": "uses.html",
+    "title": "Uses",
     "section": "",
-    "text": "We know from *the first fundamental theorem of calculus* that for $x$ in $[a, b]$:\n$$\\frac{d}{dx}\\left( \\int_{a}^{x} f(u)\\,du\\right)=f(x).$$\nI am going to insert a footnote here1.\nThis is a citation (Jacinto et al. 2018)."
+    "text": "{css, echo=FALSE} #title-block-header .description {     display: none; }\nThis is the stuff I use."
   },
   {
-    "objectID": "posts/2023-10-25-test-post/index.html#footnotes",
-    "href": "posts/2023-10-25-test-post/index.html#footnotes",
-    "title": "blog post title",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nHere is the associated footnote, which will appear at the bottom of my document in a “Footnotes” section.↩︎"
+    "objectID": "uses.html#hardware",
+    "href": "uses.html#hardware",
+    "title": "Uses",
+    "section": "Hardware",
+    "text": "Hardware\nMacbook Pro M1 (2020)\niPhone 12 (2021)\nHuawei P10"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello there! 👋🏻",
-    "section": "",
-    "text": "Welcome to my website! My name is Tiago Jacinto, and I’m a lecturer and researcher based in Porto, Portugal. You can learn more about me or just drop an email.\nOther places where you can find me:\nLast.fm | Flickr\nI’m also on social media, although I don’t use it regularly anymore.\nTwitter/X | Mastodon | Instagram | Bluesky\n\n\n\n\n\nIt’s-a-me!"
+    "objectID": "uses.html#software",
+    "href": "uses.html#software",
+    "title": "Uses",
+    "section": "Software",
+    "text": "Software\nMozilla Firefox\nReminders.app\nCalendar.app\nDictionary\nNumbers\nSpark\nDay One\nAnybox\nNetnewswire\nObsidian\nZotero\nRStudio\nZettlr\nByword\nCot Editor\nVS Code\nMarkedit\nKindle\niTerm2\nSkim\nGithub Desktop\nAcorn\nPixelmator"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Hello there!",
-    "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+    "objectID": "uses.html#services",
+    "href": "uses.html#services",
+    "title": "Uses",
+    "section": "Services",
+    "text": "Services"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Hello there!",
+    "objectID": "now.html",
+    "href": "now.html",
+    "title": "Now",
     "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "text": "Teste"
+  },
+  {
+    "objectID": "notes/index.html",
+    "href": "notes/index.html",
+    "title": "Notes",
+    "section": "",
+    "text": "blog post title\n\n\n\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\n\n\n2024-02-01\n\n\nTiago Jacinto\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "uses/index.html",
@@ -61,6 +68,20 @@
     "title": "Uses",
     "section": "Services",
     "text": "Services"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "Clinical physiologist, researcher and lecturer. Graduated from the Coimbra School of Health, MSc in Medical Informatics from the Faculty of Medicine of the University of Porto and PhD in Clinical Research and Health Services of the University of Porto. He has clinical work in the Allergy, Inflammation and Breathing Laboratory of CUF Porto Instituto & Hospital. He has more than 17 years of experience in evaluating and studying respiratory function. He is also an Adjunct Guest Professor at the Porto School of Health in the areas of Respiratory Physiology and Pathology and regent of the discipline of Evaluation in Medical Informatics of the Master’s Degree in Medical Informatics of the Faculty of Medicine of the University of Porto. Develops research activity at the Research Centre in Health Information Technologies and Systems of the Faculty of Medicine of the University of Porto, mainly in the evaluation of diagnostic technologies in respiratory diseases and the development and use of smartphone applications in health care, with more than 40 publications in the last 5 years (h-Index: 16; i10-index: 23).\n\n\n\n\n\nAlt text"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello there! 👋🏻",
+    "section": "",
+    "text": "Welcome to my website! My name is Tiago Jacinto, and I’m a lecturer and researcher based in Porto, Portugal. You can learn more about me or just drop an email.\nOther places where you can find me:\nLast.fm | Flickr\nI’m also on social media, although I don’t use it regularly anymore.\nTwitter/X | Mastodon | Instagram | Bluesky\n\n\n\n\n\nIt’s-a-me!"
   },
   {
     "objectID": "about.html",
@@ -133,41 +154,6 @@
     "text": "Footnotes\n\n\nThe above quote is excerpted from Rob Pike’s talk during Gopherfest, November 18, 2015.↩︎"
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Notes",
-    "section": "",
-    "text": "Notes\n\n\nThis is the description.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nblog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nTiago Jacinto\n\n\nFeb 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "uses.html",
-    "href": "uses.html",
-    "title": "Uses",
-    "section": "",
-    "text": "{css, echo=FALSE} #title-block-header .description {     display: none; }\nThis is the stuff I use."
-  },
-  {
-    "objectID": "uses.html#hardware",
-    "href": "uses.html#hardware",
-    "title": "Uses",
-    "section": "Hardware",
-    "text": "Hardware\nMacbook Pro M1 (2020)\niPhone 12 (2021)\nHuawei P10"
-  },
-  {
-    "objectID": "uses.html#software",
-    "href": "uses.html#software",
-    "title": "Uses",
-    "section": "Software",
-    "text": "Software\nMozilla Firefox\nReminders.app\nCalendar.app\nDictionary\nNumbers\nSpark\nDay One\nAnybox\nNetnewswire\nObsidian\nZotero\nRStudio\nZettlr\nByword\nCot Editor\nVS Code\nMarkedit\nKindle\niTerm2\nSkim\nGithub Desktop\nAcorn\nPixelmator"
-  },
-  {
-    "objectID": "uses.html#services",
-    "href": "uses.html#services",
-    "title": "Uses",
-    "section": "Services",
-    "text": "Services"
-  },
-  {
     "objectID": "notes/2023-10-25-test-post/index.html",
     "href": "notes/2023-10-25-test-post/index.html",
     "title": "blog post title",
@@ -182,38 +168,10 @@
     "text": "Footnotes\n\n\nHere is the associated footnote, which will appear at the bottom of my document in a “Footnotes” section.↩︎"
   },
   {
-    "objectID": "now.html",
-    "href": "now.html",
-    "title": "Now",
-    "section": "",
-    "text": "Teste"
-  },
-  {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "About",
-    "section": "",
-    "text": "Clinical physiologist, researcher and lecturer. Graduated from the Coimbra School of Health, MSc in Medical Informatics from the Faculty of Medicine of the University of Porto and PhD in Clinical Research and Health Services of the University of Porto. He has clinical work in the Allergy, Inflammation and Breathing Laboratory of CUF Porto Instituto & Hospital. He has more than 17 years of experience in evaluating and studying respiratory function. He is also an Adjunct Guest Professor at the Porto School of Health in the areas of Respiratory Physiology and Pathology and regent of the discipline of Evaluation in Medical Informatics of the Master’s Degree in Medical Informatics of the Faculty of Medicine of the University of Porto. Develops research activity at the Research Centre in Health Information Technologies and Systems of the Faculty of Medicine of the University of Porto, mainly in the evaluation of diagnostic technologies in respiratory diseases and the development and use of smartphone applications in health care, with more than 40 publications in the last 5 years (h-Index: 16; i10-index: 23).\n\n\n\n\n\nAlt text"
-  },
-  {
-    "objectID": "about/index.html#education",
-    "href": "about/index.html#education",
-    "title": "About",
-    "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "about/index.html#experience",
-    "href": "about/index.html#experience",
-    "title": "About",
-    "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
-  },
-  {
-    "objectID": "notes/index.html",
-    "href": "notes/index.html",
+    "objectID": "posts.html",
+    "href": "posts.html",
     "title": "Notes",
     "section": "",
-    "text": "blog post title\n\n\n\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\n\n\n2024-02-01\n\n\nTiago Jacinto\n\n\n\n\n\n\nNo matching items"
+    "text": "Notes\n\n\nThis is the description.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nblog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nTiago Jacinto\n\n\nFeb 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
