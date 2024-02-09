@@ -16,30 +16,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Tiago Jacinto",
+    "title": "Hello there! 👋🏻",
     "section": "",
-    "text": "Finley is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+    "text": "Welcome to my website! My name is Tiago Jacinto, and I’m a lecturer and researcher based in Porto, Portugal. You can learn more about me or just drop an email.\nOther places where you can find me:\nLast.fm | Flickr\nI’m also on social media, although I don’t use it regularly anymore.\nTwitter/X | Mastodon | Instagram | Bluesky\n\n\n\n\n\nIt’s-a-me!"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Tiago Jacinto",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+    "title": "Hello there!",
+    "section": "",
+    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "Tiago Jacinto",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "title": "Hello there!",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   },
   {
     "objectID": "uses/index.html",
     "href": "uses/index.html",
     "title": "Uses",
     "section": "",
-    "text": "This is the stuff I use. 2024-01-15"
+    "text": "This is the stuff I use."
   },
   {
     "objectID": "uses/index.html#hardware",
@@ -137,7 +137,7 @@
     "href": "posts.html",
     "title": "Notes",
     "section": "",
-    "text": "blog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Notes\n\n\nThis is the description.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nblog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nTiago Jacinto\n\n\nFeb 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "uses.html",
@@ -172,7 +172,7 @@
     "href": "notes/2023-10-25-test-post/index.html",
     "title": "blog post title",
     "section": "",
-    "text": "We know from *the first fundamental theorem of calculus* that for $x$ in $[a, b]$:\n$$\\frac{d}{dx}\\left( \\int_{a}^{x} f(u)\\,du\\right)=f(x).$$\nI am going to insert a footnote here1.\nThis is a citation (Jacinto et al. 2018)."
+    "text": "We know from \\(E = mc^{2}\\)\nI am going to insert a footnote here1.\nThis is a citation (Jacinto et al. 2018)."
   },
   {
     "objectID": "notes/2023-10-25-test-post/index.html#footnotes",
@@ -187,5 +187,33 @@
     "title": "Now",
     "section": "",
     "text": "Teste"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "Clinical physiologist, researcher and lecturer. Graduated from the Coimbra School of Health, MSc in Medical Informatics from the Faculty of Medicine of the University of Porto and PhD in Clinical Research and Health Services of the University of Porto. He has clinical work in the Allergy, Inflammation and Breathing Laboratory of CUF Porto Instituto & Hospital. He has more than 17 years of experience in evaluating and studying respiratory function. He is also an Adjunct Guest Professor at the Porto School of Health in the areas of Respiratory Physiology and Pathology and regent of the discipline of Evaluation in Medical Informatics of the Master’s Degree in Medical Informatics of the Faculty of Medicine of the University of Porto. Develops research activity at the Research Centre in Health Information Technologies and Systems of the Faculty of Medicine of the University of Porto, mainly in the evaluation of diagnostic technologies in respiratory diseases and the development and use of smartphone applications in health care, with more than 40 publications in the last 5 years (h-Index: 16; i10-index: 23).\n\n\n\n\n\nAlt text"
+  },
+  {
+    "objectID": "about/index.html#education",
+    "href": "about/index.html#education",
+    "title": "About",
+    "section": "",
+    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "about/index.html#experience",
+    "href": "about/index.html#experience",
+    "title": "About",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "notes/index.html",
+    "href": "notes/index.html",
+    "title": "Notes",
+    "section": "",
+    "text": "blog post title\n\n\n\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\n\n\n2024-02-01\n\n\nTiago Jacinto\n\n\n\n\n\n\nNo matching items"
   }
 ]

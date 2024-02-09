@@ -1,29 +1,26 @@
 ---
 title: "blog post title"
 description: "blog post description (appears underneath the title in smaller text) which is included on the listing page"
-author:
-  - name: Samantha Csik
-    url: https://samanthacsik.github.io/
-    orcid: 0000-0002-5300-3075
-    affiliation: Master of Environmental Data Science Program @ The Bren School (UCSB) & The National Center for Ecological Analysis & Synthesis
-    affiliation-url: https://ucsb-meds.github.io/ 
-date: 10-24-2022
+date: 2024-02-01
 categories: [Quarto, R, MEDS] # self-defined categories
-citation: 
-  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
-image: preview_image.jpg
+# citation: 
+  # url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
+image: preview.jpeg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
-bibliography: references.json
 # reference-location: margin
 # citation-location: margin
+title-block-banner: "#ffffff"
+title-block-banner-color: "#111"
+author:
+  - name: Tiago Jacinto
+    url: https://www.tiagojacinto.eu/
+    orcid: 0000-0002-3948-3914
 ---
 
 # Test
 
 ::: column-margin
-We know from \*the first fundamental theorem of calculus\* that for \$x\$ in \$\[a, b\]\$:
-
-\$\$\\frac{d}{dx}\\left( \\int\_{a}\^{x} f(u)\\,du\\right)=f(x).\$\$
+We know from $E = mc^{2}$
 :::
 
 I am going to insert a footnote here[^1].
@@ -32,4 +29,3 @@ I am going to insert a footnote here[^1].
 
 This is a citation [@jacinto2018].
 
-------------------------------------------------------------------------

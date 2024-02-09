@@ -1,18 +1,18 @@
 ---
 title: "Uses"
-page-layout: article
+page-layout: full
 date: last-modified
 date-format: iso
 description: This is the description
-title-block-banner: "#f8f9fa"
-title-block-banner-color: "#3e3e3a"
+title-block-banner: "#ffffff"
+title-block-banner-color: "#111"
 published-title: Last updated
 toc: true
-toc-location: right
+toc-location: left
 toc-title: "Contents"
 ---
 
-This is the stuff I use. {{< meta date >}}
+This is the stuff I use. 
 
 ## Hardware
 

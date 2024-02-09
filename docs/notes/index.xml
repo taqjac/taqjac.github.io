@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>TJ.EU</title>
+<link>https://www.tiagojacinto.eu/notes/</link>
+<atom:link href="https://www.tiagojacinto.eu/notes/index.xml" rel="self" type="application/rss+xml"/>
+<description>This is the description.</description>
+<generator>quarto-1.4.549</generator>
+<lastBuildDate>Thu, 01 Feb 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>blog post title</title>
+  <dc:creator>Tiago Jacinto</dc:creator>
+  <link>https://www.tiagojacinto.eu/notes/2023-10-25-test-post/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="test" class="level1 page-columns page-full">
+<h1>Test</h1>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>We know from <img src="https://latex.codecogs.com/png.latex?E%20=%20mc%5E%7B2%7D"></p>
+</div></div><p>I am going to insert a footnote here<sup>1</sup>.</p>
+<p>This is a citation <span class="citation" data-cites="jacinto2018">(Jacinto et al. 2018)</span>.</p>
+
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-jacinto2018" class="csl-entry">
+Jacinto, Tiago, Rita Amaral, Andrei Malinovschi, Christer Janson, João Fonseca, and Kjell Alving. 2018. <span>“Exhaled <span>NO</span> Reference Limits in a Large Population-Based Sample Using the <span>Lambda-Mu-Sigma</span> Method.”</span> <em>J Appl Physiol (1985)</em> 125 (5): 1620–26. <a href="https://doi.org/10.1152/japplphysiol.00093.2018">https://doi.org/10.1152/japplphysiol.00093.2018</a>.
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Here is the associated footnote, which will appear at the bottom of my document in a “Footnotes” section.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Quarto</category>
+  <category>R</category>
+  <category>MEDS</category>
+  <guid>https://www.tiagojacinto.eu/notes/2023-10-25-test-post/</guid>
+  <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://www.tiagojacinto.eu/notes/2023-10-25-test-post/preview.jpeg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

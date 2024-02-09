@@ -3,33 +3,50 @@ project:
   output-dir: docs
 
 website:
-  title: "Tiago Jacinto"
+  title: "TJ.EU"
+  site-url: https://www.tiagojacinto.eu
+  description: "A personal website"
   navbar:
     background: dark
+    pinned: true
     
     left:
-      - about.qmd
-      - posts.qmd
+      - about/index.qmd
+      # - notes/index.qmd
       - uses/index.qmd
+
+    right:
+      - text: "{{< fa brands linkedin-in title='LinkedIn' >}}"
+        href: https://www.linkedin.com/in/tiagojacinto
+        rel: me
+      - text: "{{< fa brands github title='Github' >}}"
+        href: https://github.com/taqjac
+        rel: me
+      - icon: rss
+        href: index.xml
       
-body-footer: | 
-  This page brought to you by <https://example.com>  
+  page-footer:
+    left: |
+      {{< fa brands creative-commons >}} {{< var years >}} Tiago Jacinto <br>
+      All content [{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    center: |
+      
+    right: |
+      Made with [VSCodium](https://vscodium.com/) and [Quarto](https://quarto.org/) | [Source {{< fa brands github >}}]({{< var github-url >}})
 
 format:
   html:
     pagetitle: "{{< meta title >}} | Tiago Jacinto"
-    theme: 
-      light: [custom.scss, cosmo ]
-      dark:  [custom.scss, darkly]
-    
-    grid:
-      body-width: 800px
+    theme: [custom.scss, cosmo]
     anchor-sections: true
     link-external-icon: false
     link-external-newwindow: true
     footnotes-hover: true
     toc: true
-    page-layout: full
+    
+
+bibliography: references.bib
+csl: chicago-author-date.csl
 
 editor: visual
 

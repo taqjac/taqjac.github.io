@@ -5,3 +5,5 @@ freeze: true
 
 # enable banner style title blocks (see https://quarto.org/docs/authoring/title-blocks.html)
 title-block-banner: true
+title-block-style: default
+date-format: iso

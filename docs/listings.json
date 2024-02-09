@@ -2,6 +2,13 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/notes/index.html",
+      "/notes/2023-10-25-test-post/index.html"
+    ]
+  },
+  {
+    "listing": "/notes/index.html",
+    "items": [
       "/notes/2023-10-25-test-post/index.html"
     ]
   }

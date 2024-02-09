@@ -1,32 +1,26 @@
 ---
-title: "Tiago Jacinto"
-image: headshot.jpeg
+title: "Hello there! 👋🏻"
 toc: false
-about: 
-  template: solana
-  image-shape: rectangle
-  image-width: 20em
-  links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/samanthacsik/
-    - text: Twitter
-      href: https://twitter.com/SamanthaCsik
-    - text: GitHub
-      href: https://github.com/samanthacsik
-    - text: Email
-      href: mailto:scsik@ucsb.edu
+title-block-banner: "#ffffff"
+title-block-banner-color: "#111"
+page-layout: article
 ---
+:::{.grid}
 
-Finley is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+:::{.g-col-9}
 
-## Education
+Welcome to my website!
+My name is Tiago Jacinto, and I'm a lecturer and researcher based in Porto, Portugal. You can learn more about me or just drop an email.
 
-University of California, San Diego \| San Diego, CA PhD in Mathematics \| Sept 2011 - June 2015
+Other places where you can find me:  
+[Last.fm](https://www.last.fm/user/taqjac) | [Flickr](https://www.flickr.com/photos/taqjac/)  
 
-Macalester College \| St. Paul MA B.A in Economics \| Sept 2007 - June 2011
+I'm also on social media, although I don't use it regularly anymore.  
+[Twitter/X](https://www.twitter.com/tiagojacinto_eu) | [Mastodon](https://mastodon.social/@taqjac) | [Instagram](https://www.instagram.com/tiagojacinto.eu) | [Bluesky](https://bsky.app/profile/taqjac.bsky.social)  
 
-## Experience
+:::
 
-Wengo Analytics \| Head Data Scientist \| April 2018 - present
-
-GeoScynce \| Chief Analyst \| Spet 2012 - April 2018
+:::{.g-col-3}
+![It's-a-me!](img/legome.jpeg)
+:::
+:::

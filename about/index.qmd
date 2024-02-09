@@ -1,0 +1,20 @@
+---
+title: "About"
+image: headshot.jpeg
+toc: false
+title-block-banner: "#ffffff"
+title-block-banner-color: "#111"
+page-layout: article
+---
+
+:::{.grid}
+
+:::{.g-col-8}
+
+Clinical physiologist, researcher and lecturer. Graduated from the Coimbra School of Health, MSc in Medical Informatics from the Faculty of Medicine of the University of Porto and PhD in Clinical Research and Health Services of the University of Porto. He has clinical work in the Allergy, Inflammation and Breathing Laboratory of CUF Porto Instituto & Hospital. He has more than 17 years of experience in evaluating and studying respiratory function. He is also an Adjunct Guest Professor at the Porto School of Health in the areas of Respiratory Physiology and Pathology and regent of the discipline of Evaluation in Medical Informatics of the Master’s Degree in Medical Informatics of the Faculty of Medicine of the University of Porto. Develops research activity at the Research Centre in Health Information Technologies and Systems of the Faculty of Medicine of the University of Porto, mainly in the evaluation of diagnostic technologies in respiratory diseases and the development and use of smartphone applications in health care, with more than 40 publications in the last 5 years (h-Index: 16; i10-index: 23).
+:::
+
+:::{.g-col-4}
+![Alt text](../img/headshot.jpeg)
+:::
+:::

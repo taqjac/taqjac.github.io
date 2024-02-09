@@ -1,0 +1,11 @@
+{
+  "hash": "b8b3ccfb170ed82001f758896d946e5f",
+  "result": {
+    "markdown": "---\ntitle: \"Notes\"\ndescription: This is the description.\ntitle-block-banner: \"#ffffff\"\ntitle-block-banner-color: \"#111\"\npage-layout: article\nlisting: \n  # contents: notes # all Quarto docs in the `posts` directory will be included on your listing page\n  type: default # or `default` or `table`; each type has its own set of yaml options to include\n  sort: \"date desc\" # can also sort on more than one field\n  categories: true # allows you to sort posts by assigned categories \n---\n\n```{css, echo=FALSE}\n#title-block-header .author {\n    display: none;\n}\n```\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
