@@ -6,6 +6,7 @@ website:
   title: "TJ.EU"
   site-url: https://www.tiagojacinto.eu
   description: "A personal website"
+  site-url: http://tiagojacinto.eu
   navbar:
     background: primary
     pinned: true
