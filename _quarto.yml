@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "taqjac.github.io"
+  title: "Tiago Jacinto"
   navbar:
     left:
       - href: index.qmd
