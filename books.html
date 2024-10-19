@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Hello, I’m Tiago 👋🏻</title>
+<title>Books I’ve Read</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,6 +24,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -38,13 +39,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -68,13 +68,42 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="styles.css">
 </head>
 
-<body>
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./books.html" aria-current="page"> 
+<span class="menu-text">Books I’ve Read</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
@@ -84,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Hello, I’m Tiago 👋🏻</h1>
+<h1 class="title">Books I’ve Read</h1>
 </div>
 
 
@@ -101,12 +130,16 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>Here’s a list of books I’ve read, along with my reviews and ratings.</p>
 
 <div class="no-row-height column-margin column-container"><div class="">
-<p><img src="tj2023.jpeg" class="img-fluid"></p>
-</div></div><p>I’m Tiago Jacinto, Assistant Professor at the Faculty of Medicine of the University of Porto, specializing in respiratory medicine and digital health. My work focuses on pulmonary function, respiratory diseases, and innovative technologies in clinical practice.</p>
-<p>I hold a PhD in Clinical Research from the University of Porto, where I studied exhaled nitric oxide, and a master’s in Medical Informatics, developing diagnostic decision support tools.</p>
-<p>As a researcher with CINTESIS, I work on projects using data science and digital health to improve patient care. I also contribute to international clinical trials on asthma and COPD, with widely published research.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/goldfinch.jpg" class="img-fluid figure-img"></p>
+<figcaption>A margin image</figcaption>
+</figure>
+</div>
+</div></div><div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class="margin-aside">This is a span that has the class <code>aside</code> which places it in the margin without a footnote number.</span></div></div>
 
 
 
@@ -203,7 +236,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/taqjac\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -532,75 +565,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
-    <div class="nav-footer-left">
-      &nbsp;
-    </div>   
-    <div class="nav-footer-center">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item">
-    <a class="nav-link" href="mailto:tajacinto@gmail.com">
-<p><iconify-icon role="img" inline="" icon="simple-icons:gmail" aria-label="Icon gmail from simple-icons Iconify.design set." title="Icon gmail from simple-icons Iconify.design set."></iconify-icon></p>
-</a>
-  </li>  
-    <li class="nav-item">
-    <a class="nav-link" href="https://www.linkedin.com/in/tiagojac/">
-<p><iconify-icon role="img" inline="" icon="simple-icons:linkedin" aria-label="Icon linkedin from simple-icons Iconify.design set." title="Icon linkedin from simple-icons Iconify.design set."></iconify-icon></p>
-</a>
-  </li>  
-    <li class="nav-item">
-    <a class="nav-link" href="https://www.github.com/taqjac/">
-<p><iconify-icon role="img" inline="" icon="simple-icons:github" aria-label="Icon github from simple-icons Iconify.design set." title="Icon github from simple-icons Iconify.design set."></iconify-icon></p>
-</a>
-  </li>  
-    <li class="nav-item">
-    <a class="nav-link" href="https://www.researchgate.net/profile/Tiago-Jacinto">
-<p><iconify-icon role="img" inline="" icon="simple-icons:researchgate" aria-label="Icon researchgate from simple-icons Iconify.design set." title="Icon researchgate from simple-icons Iconify.design set."></iconify-icon></p>
-</a>
-  </li>  
-    <li class="nav-item">
-    <a class="nav-link" href="https://orcid.org/0000-0002-7897-1101">
-<p><iconify-icon role="img" inline="" icon="simple-icons:orcid" aria-label="Icon orcid from simple-icons Iconify.design set." title="Icon orcid from simple-icons Iconify.design set."></iconify-icon></p>
-</a>
-  </li>  
-    <li class="nav-item">
-    <a class="nav-link" href="https://instagram.com/taqjac">
-<p><iconify-icon role="img" inline="" icon="simple-icons:instagram" aria-label="Icon instagram from simple-icons Iconify.design set." title="Icon instagram from simple-icons Iconify.design set."></iconify-icon></p>
-</a>
-  </li>  
-    <li class="nav-item">
-    <a class="nav-link" href="https://www.last.fm/user/taqjac">
-<p><iconify-icon role="img" inline="" icon="simple-icons:lastdotfm" aria-label="Icon lastdotfm from simple-icons Iconify.design set." title="Icon lastdotfm from simple-icons Iconify.design set."></iconify-icon></p>
-</a>
-  </li>  
-    <li class="nav-item">
-    <a class="nav-link" href="https://letterboxd.com/taqjac/">
-<p><iconify-icon role="img" inline="" icon="simple-icons:letterboxd" aria-label="Icon letterboxd from simple-icons Iconify.design set." title="Icon letterboxd from simple-icons Iconify.design set."></iconify-icon></p>
-</a>
-  </li>  
-    <li class="nav-item">
-    <a class="nav-link" href="https://bsky.app/profile/taqjac.bsky.social">
-<p><iconify-icon role="img" inline="" icon="simple-icons:bluesky" aria-label="Icon bluesky from simple-icons Iconify.design set." title="Icon bluesky from simple-icons Iconify.design set."></iconify-icon></p>
-</a>
-  </li>  
-    <li class="nav-item">
-    <a class="nav-link" href="https://indieweb.social/@taqjac">
-<p><iconify-icon role="img" inline="" icon="simple-icons:mastodon" aria-label="Icon mastodon from simple-icons Iconify.design set." title="Icon mastodon from simple-icons Iconify.design set."></iconify-icon></p>
-</a>
-  </li>  
-    <li class="nav-item">
-    <a class="nav-link" href="https://twitter.com/taqjac">
-<p><iconify-icon role="img" inline="" icon="simple-icons:x" aria-label="Icon x from simple-icons Iconify.design set." title="Icon x from simple-icons Iconify.design set."></iconify-icon></p>
-</a>
-  </li>  
-</ul>
-    </div>
-    <div class="nav-footer-right">
-      &nbsp;
-    </div>
-  </div>
-</footer>
 
 
 

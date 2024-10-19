@@ -1,16 +1,51 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Tiago Jacinto",
+    "title": "Hello, I’m Tiago 👋🏻",
     "section": "",
-    "text": "Hello!"
+    "text": "I’m Tiago Jacinto, Assistant Professor at the Faculty of Medicine of the University of Porto, specializing in respiratory medicine and digital health. My work focuses on pulmonary function, respiratory diseases, and innovative technologies in clinical practice.\nI hold a PhD in Clinical Research from the University of Porto, where I studied exhaled nitric oxide, and a master’s in Medical Informatics, developing diagnostic decision support tools.\nAs a researcher with CINTESIS, I work on projects using data science and digital health to improve patient care. I also contribute to international clinical trials on asthma and COPD, with widely published research."
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Tiago Jacinto, clinical physiologist, Assistant Professor at the Faculty of Medicine of the University of Porto and at Porto Health School, where I specialize in respiratory medicine and digital health. My teaching and research focus on pulmonary function and respiratory diseases, with a particular emphasis on the role of innovative technologies in clinical practice.\nI’ve earned my PhD in Clinical Research and Health Services from the University of Porto, where I studied the determinants of exhaled nitric oxide, a key biomarker in respiratory health. I also hold a master’s degree in Medical Informatics, during which I developed decision support tools to improve diagnostics in respiratory medicine.\nAs an integrated researcher with the Research Centre in Health Technologies and Services (CINTESIS), I contribute to several projects focused on data science and patient-centered technologies. My research group, PaCeIT, explores ways to use digital health innovations to enhance patient outcomes and clinical decision-making.\nI’m also involved in international clinical trials aimed at advancing treatments for asthma and COPD. My work in these areas has been widely published in leading journals, and I’m recognized for my contributions to understand asthma phenotypes and the integration of mobile health technologies in clinical settings.\nThrough my teaching, research, and clinical collaborations, I strive to bridge the gap between digital health and respiratory medicine, ensuring that technological advancements translate into better care for patients."
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Quarto",
+    "section": "",
+    "text": "navbar: left: - href: index.qmd text: Home - about.qmd\n\n\n\nsidebar: style: “docked” search: false contents: - text: “Introduction” href: introduction.qmd - section: “Basics” href: basics-summary.qmd contents: - index.qmd - basics-knitr.qmd - basics-jupyter.qmd - section: “Layout” contents: - layout.qmd - layout-knitr.qmd - layout-jupyter.qmd - section: advanced.qmd contents: - raw-code.qmd - custom-theme.qmd - acknowlegment.qmd\n\n\n\nmcanouil/quarto-iconify: Use Iconify icons in HTML-based Quarto documents (over 200,000 open source vector icons)\nEscolher Iconify Icon\n\ntext: “” href: https://www.linkedin.com/in/tiagojac/ - text: “” href: https://www.github.com/taqjac/ - text: “” href: https://www.researchgate.net/profile/Tiago-Jacinto - text: “” href: https://orcid.org/0000-0002-7897-1101 - text: “” href: https://instagram.com/taqjac - text: “” href: https://www.last.fm/user/taqjac - text: “” href: https://bsky.app/profile/taqjac.bsky.social - text: “” href: https://indieweb.social/@taqjac - text: “” href: https://twitter.com/taqjac"
+  },
+  {
+    "objectID": "notes.html#colocar-navbar",
+    "href": "notes.html#colocar-navbar",
+    "title": "Quarto",
+    "section": "",
+    "text": "navbar: left: - href: index.qmd text: Home - about.qmd"
+  },
+  {
+    "objectID": "notes.html#colocar-sidebar",
+    "href": "notes.html#colocar-sidebar",
+    "title": "Quarto",
+    "section": "",
+    "text": "sidebar: style: “docked” search: false contents: - text: “Introduction” href: introduction.qmd - section: “Basics” href: basics-summary.qmd contents: - index.qmd - basics-knitr.qmd - basics-jupyter.qmd - section: “Layout” contents: - layout.qmd - layout-knitr.qmd - layout-jupyter.qmd - section: advanced.qmd contents: - raw-code.qmd - custom-theme.qmd - acknowlegment.qmd"
+  },
+  {
+    "objectID": "notes.html#icons-iconify",
+    "href": "notes.html#icons-iconify",
+    "title": "Quarto",
+    "section": "",
+    "text": "mcanouil/quarto-iconify: Use Iconify icons in HTML-based Quarto documents (over 200,000 open source vector icons)\nEscolher Iconify Icon\n\ntext: “” href: https://www.linkedin.com/in/tiagojac/ - text: “” href: https://www.github.com/taqjac/ - text: “” href: https://www.researchgate.net/profile/Tiago-Jacinto - text: “” href: https://orcid.org/0000-0002-7897-1101 - text: “” href: https://instagram.com/taqjac - text: “” href: https://www.last.fm/user/taqjac - text: “” href: https://bsky.app/profile/taqjac.bsky.social - text: “” href: https://indieweb.social/@taqjac - text: “” href: https://twitter.com/taqjac"
+  },
+  {
+    "objectID": "books/index.html",
+    "href": "books/index.html",
+    "title": "Books",
+    "section": "",
+    "text": "Here’s a list of books I’ve read, along with my reviews and ratings.\n\n\n\n\n\nA margin image\n\n\nThis is a span that has the class aside which places it in the margin without a footnote number."
   }
 ]
