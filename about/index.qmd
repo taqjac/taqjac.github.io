@@ -1,0 +1,30 @@
+---
+title: "About"
+about:
+  template: trestles
+  image: tj2023.jpeg
+  image-shape: round
+  image-width: 12em
+  links:
+    - text: "{{< iconify simple-icons:gmail>}}"
+      href: mailto:tajacinto@gmail.com
+    - text: "{{< iconify simple-icons:linkedin>}}"
+      href: https://www.linkedin.com/in/tiagojac/
+    - text: "{{< iconify simple-icons:github>}}"
+      href: https://www.github.com/taqjac/
+    - text: "{{< iconify simple-icons:researchgate>}}"
+      href: https://www.researchgate.net/profile/Tiago-Jacinto
+    - text: "{{< iconify simple-icons:orcid>}}"
+      href: https://orcid.org/0000-0002-7897-1101
+toc: false
+---
+
+I'm Tiago Jacinto, clinical physiologist, Assistant Professor at the Faculty of Medicine of the University of Porto and at Porto Health School, where I specialize in respiratory medicine and digital health. My teaching and research focus on pulmonary function and respiratory diseases, with a particular emphasis on the role of innovative technologies in clinical practice.
+
+I've earned my PhD in Clinical Research and Health Services from the University of Porto, where I studied the determinants of exhaled nitric oxide, a key biomarker in respiratory health. I also hold a master’s degree in Medical Informatics, during which I developed decision support tools to improve diagnostics in respiratory medicine.
+
+As an integrated researcher with the Research Centre in Health Technologies and Services (CINTESIS), I contribute to several projects focused on data science and patient-centered technologies. My research group, PaCeIT, explores ways to use digital health innovations to enhance patient outcomes and clinical decision-making.
+
+I'm also involved in international clinical trials aimed at advancing treatments for asthma and COPD. My work in these areas has been widely published in leading journals, and I'm recognized for my contributions to understand asthma phenotypes and the integration of mobile health technologies in clinical settings.
+
+Through my teaching, research, and clinical collaborations, I strive to bridge the gap between digital health and respiratory medicine, ensuring that technological advancements translate into better care for patients.

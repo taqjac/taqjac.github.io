@@ -1,0 +1,12 @@
+---
+title: "Books"
+---
+
+Here’s a list of books I've read, along with my reviews and ratings.
+
+::: {.column-margin}
+![A margin image](goldfinch.jpg)
+:::
+
+
+[This is a span that has the class `aside` which places it in the margin without a footnote number.]{.aside}

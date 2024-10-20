@@ -1,5 +1,16 @@
 ---
-title: "Tiago Jacinto"
+title: "Hello, I'm Tiago 👋🏻"
+about:
+  template: jolla
+  image: tj2023.jpeg
+  image-width: 9em
+
 ---
 
-Hello!
+I’m Tiago Jacinto, a lecturer at the [Faculty of Medicine of the University of Porto](http://med.up.pt) and [Porto Health School](http://ess.ipp.pt), specializing in respiratory physiology and digital health.
+
+My work focuses on pulmonary function, respiratory diseases, and innovative technologies in clinical practice.
+
+I hold a PhD in Clinical Research from the University of Porto, where I studied exhaled nitric oxide, and a master’s in Medical Informatics, developing diagnostic decision support tools.
+
+As a researcher in [CINTESIS](http://cintesis.eu), I work on projects using data science and digital health to improve patient care, with widely published research.
