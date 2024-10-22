@@ -4,7 +4,29 @@ about:
   template: jolla
   image: tj2023.jpeg
   image-width: 9em
-
+  links: 
+    - text: "{{< iconify simple-icons:gmail>}}"
+      href: mailto:tajacinto@gmail.com
+    - text: "{{< iconify simple-icons:linkedin>}}"
+      href: https://www.linkedin.com/in/tiagojac/
+    - text: "{{< iconify simple-icons:github>}}"
+      href: https://www.github.com/taqjac/
+    - text: "{{< iconify simple-icons:researchgate>}}"
+      href: https://www.researchgate.net/profile/Tiago-Jacinto
+    - text: "{{< iconify simple-icons:orcid>}}"
+      href: https://orcid.org/0000-0002-7897-1101
+    - text: "{{< iconify simple-icons:instagram>}}"
+      href: https://instagram.com/taqjac
+    - text: "{{< iconify simple-icons:lastdotfm>}}"
+      href: https://www.last.fm/user/taqjac
+    - text: "{{< iconify simple-icons:letterboxd>}}"
+      href: https://letterboxd.com/taqjac/
+    - text: "{{< iconify simple-icons:bluesky>}}"
+      href: https://bsky.app/profile/taqjac.bsky.social
+    - text: "{{< iconify simple-icons:mastodon>}}"
+      href: https://indieweb.social/@taqjac
+    - text: "{{< iconify simple-icons:x>}}"
+      href: https://twitter.com/taqjac
 ---
 
 I’m Tiago Jacinto, a lecturer at the [Faculty of Medicine of the University of Porto](http://med.up.pt) and [Porto Health School](http://ess.ipp.pt), specializing in respiratory physiology and digital health.
