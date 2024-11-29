@@ -13,10 +13,19 @@ website:
   page-footer: 
     center:
       Made with {{< iconify simple-icons:quarto>}} and {{< iconify zondicons:coffee>}}
-      
+  navbar:
+    background: secondary
+    foreground: dark
+    search: false
+    left:
+      - text: "TJ"
+        href: index.qmd
+  
 format:
   html:
     theme: zephyr
+    header-includes: |
+      <link rel="me" href="https://mastodon.social/@taqjac" />
 
 
 

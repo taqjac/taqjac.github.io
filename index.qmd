@@ -1,9 +1,10 @@
 ---
 title: "Hello, I'm Tiago 👋🏻"
 about:
-  template: jolla
+  template: marquee
   image: tj2023.jpeg
-  image-width: 9em
+  image-shape: round
+  image-width: 7em
   links: 
     - text: "{{< iconify simple-icons:gmail>}}"
       href: mailto:tajacinto@gmail.com
@@ -15,18 +16,6 @@ about:
       href: https://www.researchgate.net/profile/Tiago-Jacinto
     - text: "{{< iconify simple-icons:orcid>}}"
       href: https://orcid.org/0000-0002-7897-1101
-    - text: "{{< iconify simple-icons:instagram>}}"
-      href: https://instagram.com/taqjac
-    - text: "{{< iconify simple-icons:lastdotfm>}}"
-      href: https://www.last.fm/user/taqjac
-    - text: "{{< iconify simple-icons:letterboxd>}}"
-      href: https://letterboxd.com/taqjac/
-    - text: "{{< iconify simple-icons:bluesky>}}"
-      href: https://bsky.app/profile/taqjac.bsky.social
-    - text: "{{< iconify simple-icons:mastodon>}}"
-      href: https://indieweb.social/@taqjac
-    - text: "{{< iconify simple-icons:x>}}"
-      href: https://twitter.com/taqjac
 ---
 
 I’m Tiago Jacinto, a lecturer at the [Faculty of Medicine of the University of Porto](http://med.up.pt) and [Porto Health School](http://ess.ipp.pt), specializing in respiratory physiology and digital health.
@@ -36,3 +25,4 @@ My work focuses on pulmonary function, respiratory diseases, and innovative tech
 I hold a PhD in Clinical Research from the University of Porto, where I studied exhaled nitric oxide, and a master’s in Medical Informatics, developing diagnostic decision support tools.
 
 As a researcher in [CINTESIS](http://cintesis.eu), I work on projects using data science and digital health to improve patient care, with widely published research.
+
